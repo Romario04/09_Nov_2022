@@ -28,10 +28,15 @@ public class Selenium {
 		}
 		count++;
 	}
-    
     System.out.println(count);
     System.out.println(count);
     
+    
+
+//<<<<<<< HEAD
+//=======
+//    
+//>>>>>>> b9c7229c776d1335ca2da6a6656bf7cd549f66bd
     
 	}
 
