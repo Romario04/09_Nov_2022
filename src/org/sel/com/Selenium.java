@@ -30,7 +30,7 @@ public class Selenium {
 	}
     
     System.out.println(count);
-    
+    System.out.println(count);
     
 	}
 
